@@ -1,2 +1,3 @@
 ALX
 #!/bin/bashnecho ALX
+echo "ALX School is so cool"
